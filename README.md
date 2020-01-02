@@ -1,5 +1,5 @@
 # RecommendationSystem-Word2vec
-Recommendation system for customers in an E-commerce site based on Word2Vec embeddings
+[Recommendation system for customers in an E-commerce site based on Word2Vec embeddings](http://sravanroy.com/word2vec.html)
 
 # *Goal* :
 * To build a recommendation engine that automatically recommends a certain number of products to the consumers on an E-commerce website based on the past purchase behavior of the consumers
