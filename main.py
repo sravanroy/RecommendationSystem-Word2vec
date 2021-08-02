@@ -202,7 +202,7 @@ for i in tqdm(validation_df['CustomerID'].unique()):
 	st.code(test_code, language = 'python')
 	st.markdown("- Let's look at the frequency distribution of the customers based on the number of products they purchased")
 
-	image = Image.open('dist.png')
+	image = Image.open('distribution.png')
 	st.image(image, caption='# of customers by products purchased', width = 500)
 
 
