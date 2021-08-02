@@ -1,5 +1,5 @@
 # RecommendationSystem-Word2vec
-Play around with the interactive app [here](https://share.streamlit.io/sravanroy/recommendationsystem-word2vec/main.py)
+[Play around with the interactive app by clicking this link](https://share.streamlit.io/sravanroy/recommendationsystem-word2vec/main.py)
 
 # *Goal* :
 * To build a recommendation engine that recommends a desired number of products to the consumers on an E-commerce website based on the past purchase behavior of the consumers
