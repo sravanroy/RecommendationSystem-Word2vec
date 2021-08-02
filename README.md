@@ -1,12 +1,12 @@
 # RecommendationSystem-Word2vec
-[Recommendation system for customers in an E-commerce site based on Word2Vec embeddings](http://sravanroy.com/word2vec.html)
+Play around with the interactive app [here](https://share.streamlit.io/sravanroy/recommendationsystem-word2vec/main.py)
 
 # *Goal* :
-* To build a recommendation engine that automatically recommends a certain number of products to the consumers on an E-commerce website based on the past purchase behavior of the consumers
+* To build a recommendation engine that recommends a desired number of products to the consumers on an E-commerce website based on the past purchase behavior of the consumers
 
 # *Data* :
 * The E-Commerce data is taken from the UCI repository and can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/)
 
 # *Solution* :
-* Implemented Word2Vec model in NLP to form word embeddings for all the products
-* Recommend top 'n' products for a customer based on the similarity of vectors between his purchased products and the entire products in the site
+* Implemented Word2Vec model to form word embeddings for all the products
+* The model can recommend similar products for a given product and also recommend products to customers by looking at most recent purchases ( can be limited such as last 10 products, 6 months etc.. )
