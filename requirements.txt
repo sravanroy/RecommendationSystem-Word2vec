@@ -5,5 +5,5 @@ pandas==1.1.2
 plotly==4.13.0
 streamlit==0.85.1
 gensim==3.8.3
-Pillow==8.3.1
+Pillow==10.0.1
 scikit_learn==0.24.2
